@@ -1,1 +1,1 @@
-# Trisula-Jawara
+# Trisula
